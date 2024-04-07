@@ -87,7 +87,8 @@ def print_board(board):
           two = " "
         if three == "None":
           three = " "
-        print(one + two + three)
+        print(one + " | " + two + " | " + three)
+        print("---------")
 
 board = [[None, None, None],
          [None, None, None],
