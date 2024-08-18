@@ -5,4 +5,4 @@ Minmax is a decision rule used in artificial intelligence, decision theory, game
 
 https://replit.com/@42AH/Minimax-algorithm
 
-Use with credit
+No credit needed
